@@ -24,7 +24,7 @@ Unit 2 work fixed
 
 
 
-<img src='Unit2 gif.2.gif' Title = 'unit2 lab' width=250><br>
+<img src='flix' Title = 'unit2 lab' width=250><br>
 
 ### Notes
 
